@@ -1,0 +1,42 @@
+_repo: Smith-College-StoriesTen-Stories-by-Josephine-Dodge-Daskam_41858
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41858-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bacon, Josephine Daskam
+    aliases:
+    - Bacon, Selden, Mrs.
+    - Daskam, Josephine Dodge
+    - Bacon, Josephine Dodge Daskam
+    - Lovell, Ingraham
+    birthdate: 1876
+    deathdate: 1961
+    gutenberg_agent_id: '9246'
+    url: http://www.gutenberg.org/2009/agents/9246
+    wikipedia: http://en.wikipedia.org/wiki/Josephine_Daskam_Bacon
+description: ''
+gutenberg_issued: '2013-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41858'
+  lccn: 00001793
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women college students -- Fiction'
+- !lcsh 'Northampton (Mass.) -- Social life and customs -- Fiction'
+- !lcsh 'Smith College -- Fiction'
+- !lcc 'PS'
+- !lcsh 'College stories, American'
+tableOfContents: The emotions of a sub-guard -- A case of interference -- Miss Biddle
+  of Bryn Mawr -- Biscuits ex machina -- The education of Elizabeth -- A family affair
+  -- A few diversions -- The evolution of Evangeline -- At commencement -- The end
+  of it.
+title: 'Smith College Stories
+
+  Ten Stories by Josephine Dodge Daskam'
+url: http://www.gutenberg.org/ebooks/41858
